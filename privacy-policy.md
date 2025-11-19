@@ -1,40 +1,128 @@
-**Privacy Policy for The Lost Pixel**
+# Privacy Policy – The Lost Pixel
+**Effective Date: 18/11/2025**
 
-Effective Date: [Insert Date]
+VerySeriousStudio (“we”, “us”, or “our”) respects your privacy and is committed to protecting your information.  
+This Privacy Policy explains how we collect, use, and safeguard data when you play **The Lost Pixel**.
 
-Very Serious Studio ("we", "our", "us") respects your privacy and is committed to protecting your personal information. This Privacy Policy explains how we collect, use, and safeguard your information when you play our game, The Lost Pixel.
+By downloading or playing the game, you agree to the practices described below.
 
-**Information We Collect**
-- **Personal Information:** We do not require you to provide personal information to play the game.
-- **Device Information:** We may collect non-personal information about your device, such as device model, operating system, and unique device identifiers, to improve the game experience.
-- **Usage Data:** We may collect anonymous usage data, including gameplay statistics, crash reports, and performance metrics.
+---
 
-**How We Use Your Information**
-- To operate, maintain, and improve our game.
-- To understand how players use the game and enhance the player experience.
-- To provide customer support if you contact us.
+## 1. Information We Collect
 
-**Data Sharing and Disclosure**
-- We do not sell or share your personal information with third parties for marketing purposes.
-- We may share anonymized or aggregated data with service providers that help us operate the game.
+### 1.1 Personal Information  
+We do **not** require you to provide personal information to use or play the game.  
+We do not collect your name, email, address, phone number, or any other identifiable personal data unless you voluntarily provide it (e.g., when contacting support).
 
-**Cookies and Tracking**
-- The game does not use cookies or any tracking technologies that identify you personally.
+### 1.2 Device Information  
+We may collect non-personal device data, including:
 
-**Third-Party Services**
-- Our game may use third-party services (e.g., analytics or ads). Please refer to their privacy policies for details on how they handle data.
+- Device model and hardware  
+- Operating system version  
+- Language and region  
+- Anonymous device identifiers (e.g., Google Advertising ID)
 
-**Children's Privacy**
-- The Lost Pixel is not intended for children under 13. We do not knowingly collect personal information from children.
+### 1.3 Usage Data  
+We may collect anonymized gameplay and performance data such as:
 
-**Your Choices**
-- You can choose not to provide certain information; however, some features of the game may not function properly.
-- You can disable in-game ads through device settings if applicable.
+- Session duration  
+- Level progress and interactions  
+- Crash logs  
+- In-game event statistics  
 
-**Changes to This Privacy Policy**
-- We may update this Privacy Policy from time to time. Updates will be posted here with a revised effective date.
+---
 
-**Contact Us**
-If you have any questions or concerns about this Privacy Policy, please contact us at:  
-**Email:** veryseriousstudio@gmail.com
+## 2. How We Use Your Information
+We use data to:
 
+- Operate and improve the game  
+- Analyze gameplay and performance  
+- Fix bugs and crashes  
+- Personalize ad delivery (non-personalized or contextual)  
+- Provide customer support  
+
+We do **not** use your data for direct marketing.
+
+---
+
+## 3. Third-Party Services & Advertising
+
+### 3.1 Analytics & Crash Reporting
+The Lost Pixel may use third-party services, such as:
+
+- Analytics tools  
+- Crash reporting tools  
+
+These services may collect non-personal device information.  
+We do not control how third-party services manage their data.
+
+### 3.2 Advertising & Mediation
+The Lost Pixel uses **LevelPlay mediation**, which may serve ads from multiple third-party ad networks such as **Google AdMob**, **Chartboost**, and others.  
+These partners may collect device identifiers and usage data to deliver, personalize, and improve ads.
+
+You can review the privacy policies of major ad partners here:
+
+- Google AdMob / Google Ads: https://policies.google.com/privacy  
+- Chartboost: https://answers.chartboost.com/en-us/articles/200780269  
+- Unity LevelPlay Partners List: https://www.is.com/
+
+We do not control the data collected by these third-party networks. Their data collection is governed by their own privacy policies.
+
+---
+
+## 4. Data Sharing
+We may share anonymized or aggregated data with trusted service providers who help us:
+
+- Deliver ads  
+- Analyze usage  
+- Process crash reports  
+- Improve performance  
+
+We do **not** share personal data because we do not collect it.
+
+---
+
+## 5. Data Security
+We use reasonable measures to protect information from unauthorized access.  
+However, no digital system is perfectly secure.
+
+By playing the game, you acknowledge that absolute security cannot be guaranteed.
+
+---
+
+## 6. Children’s Privacy
+The Lost Pixel is not intended for children under **13**.  
+We do not knowingly collect personal information from children.
+
+If you believe a child has submitted data, contact us and we will remove it.
+
+---
+
+## 7. Your Choices
+You may:
+
+- Reset or disable your advertising identifier  
+- Opt out of personalized ads  
+- Decline to share certain optional information  
+- Uninstall the game to stop all data collection  
+
+---
+
+## 8. International Users
+Data may be processed in countries where our third-party service providers operate.  
+All processing complies with applicable laws and Google Play policies.
+
+---
+
+## 9. Changes to This Privacy Policy
+We may update this Privacy Policy as needed.  
+The “Effective Date” will be updated whenever changes occur.
+
+Continued use of the game means you accept the updated policy.
+
+---
+
+## 10. Contact Us
+If you have questions or concerns, contact us:
+
+📧 **veryseriousstudio@gmail.com**
