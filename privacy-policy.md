@@ -1,5 +1,5 @@
 # Privacy Policy – The Lost Pixel
-**Effective Date: 18/11/2025**
+**Effective Date: 19/11/2025**
 
 VerySeriousStudio (“we”, “us”, or “our”) respects your privacy and is committed to protecting your information.  
 This Privacy Policy explains how we collect, use, and safeguard data when you play **The Lost Pixel**.
