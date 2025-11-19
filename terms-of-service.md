@@ -1,90 +1,159 @@
-Terms of Service – The Lost Pixel
+# Terms of Service – The Lost Pixel
+**Last updated: 19/11/2025**
 
-Last updated: 18/11/2025
+Welcome to **The Lost Pixel**, developed by **VerySeriousStudio** (“we”, “us”, or “our”).  
+By downloading or using the game, you agree to these Terms of Service (“Terms”).  
+Please read them carefully.
 
-Welcome to The Lost Pixel, created by VerySeriousStudio (“we”, “us”, or “our”).
-By downloading or using the game, you agree to these Terms of Service. Please read them carefully.
+---
 
-1. Use of the Game
-
+## 1. Use of the Game
 You may download and play The Lost Pixel for your personal, non-commercial use.
-You agree not to:
 
-Modify, copy, or distribute the game’s code or assets
+You agree **not** to:
 
-Use cheats, automation tools, exploits, or hacks
+- Modify, copy, distribute, or resell the game’s code, assets, or content  
+- Use cheats, bots, automation tools, exploits, or hacks  
+- Attempt to reverse-engineer, decompile, or extract source code  
+- Interfere with servers, systems, ad delivery, or gameplay integrity  
+- Use the game for any unlawful or harmful purpose  
 
-Attempt to reverse-engineer or decompile any part of the game
+We reserve the right to suspend or terminate access if these rules are violated.
 
-Use the game for any unlawful purpose
+---
 
-2. In-Game Purchases
+## 2. In-Game Purchases & Refunds
+The Lost Pixel may offer optional in-app purchases, such as virtual items or enhancements.
 
-The Lost Pixel may offer optional in-game purchases.
-All purchases are handled through Google Play and follow Google’s refund policies.
+All purchases are processed through **Google Play**. Because of this:
 
-We do not handle refunds directly.
-If you experience a billing issue, please contact Google Play Support.
+- **We do not offer refunds for any in-game purchases**  
+- All refund requests must be submitted through **Google Play**, not through us  
+- Refund approvals are handled solely by Google Play and cannot be overridden by us  
+- Prices and availability may change at any time  
 
-3. User Data
+By making a purchase, you acknowledge that:
 
-We may collect limited technical information such as:
+- Virtual items have **no real-world monetary value**  
+- Virtual items are **non-refundable, non-exchangeable, and non-transferable**  
+- Virtual items may be adjusted, modified, or removed during updates  
 
-Device type and OS version
+For billing issues or accidental purchases, please contact **Google Play Support**.
 
-App performance data
+---
 
-Crash logs
+## 3. User Data & Analytics
+We may collect limited technical and analytics information, including:
 
-Advertising identifiers (for delivering ads)
+- Device type and OS version  
+- Game performance metrics  
+- Crash logs  
+- Advertising identifiers (e.g., Google Advertising ID)  
+- Basic interaction analytics such as progress or session length  
 
-This information is used to improve gameplay, performance, and ad relevance.
+This data helps us improve stability, performance, and ad relevance.  
+We **do not** collect personally identifiable information unless explicitly provided by you.
 
-For more information, please see our Privacy Policy.
+For complete details, please refer to our **Privacy Policy**.
 
-4. Ads
+---
 
-The game may show ads provided by third-party ad networks.
-Ad content is not controlled directly by us.
+## 4. Advertising
+The game may display ads from third-party ad networks.
 
-If you click an ad, you may be taken to a third-party website or app that has its own terms and privacy practices.
+Please note:
 
-5. Online Services
+- We do not control the exact ad content  
+- Ad availability may vary by location or network conditions  
+- Clicking an ad may redirect you to a third-party app or website  
 
-Some features require an internet connection (for example, watching reward ads or receiving remote updates).
+These third-party services follow their own terms and privacy practices, and we are not responsible for their behavior or content.
+
+---
+
+## 5. Internet & Online Features
+Some features require an active internet connection, including:
+
+- Watching rewarded ads  
+- Receiving remote updates or configuration  
+- Analytics and performance tracking  
 
 We are not responsible for issues caused by:
 
-Lost internet connection
+- Lost or unstable internet connections  
+- Third-party server outages  
+- Ads failing to load  
+- Device or OS incompatibility  
 
-Third-party network failures
+---
 
-Ad availability or loading issues
+## 6. Age Requirements
+The Lost Pixel is intended for players **aged 13 and above**.
 
-6. Age Requirements
+- Players under 13 may not use the game  
+- Players under 18 must have permission from a parent or guardian  
+- Parents are encouraged to enable parental controls on the device  
 
-The game is not intended for children under 13 years old.
-If you are under 18, you must have permission from a parent or guardian.
+---
 
-7. Changes to the Game or Terms
+## 7. Virtual Items
+Some items in the game may be virtual or consumable.
 
-We may update the game or change these Terms at any time.
-If changes are significant, we will update the “Last Updated” date at the top.
+You understand that:
 
-Continued use of the game means you accept the updated Terms.
+- Virtual items have **no cash value**  
+- They cannot be traded or transferred  
+- They may be modified or removed during updates  
+- Loss of virtual items due to device issues may not be recoverable  
 
-8. Termination
+---
 
-We may suspend or terminate access to the game if you:
+## 8. Updates & Changes
+We may update or modify the game at any time, including:
 
-Violate these Terms
+- Features  
+- Content  
+- Balancing changes  
+- Systems  
+- UI and gameplay  
 
-Attempt to disrupt servers, systems, or other players
+We may also update these Terms. A new “Last Updated” date will be shown at the top.
 
-Interfere with gameplay integrity
+Continued use of the game means you accept any updated Terms.
 
-9. Contact Us
+---
 
-If you have any questions about these Terms, email us at:
+## 9. Suspension or Termination
+We may suspend or terminate access to The Lost Pixel if you:
 
-👉 veryseriousstudio@gmail.com
+- Violate these Terms  
+- Cheat, exploit, or modify the game  
+- Attempt to harm servers, systems, or other players  
+- Use the game for abusive or malicious purposes  
+
+Suspension or termination does not entitle you to refunds for purchases or virtual items.
+
+---
+
+## 10. Liability & Disclaimer
+To the fullest extent permitted by law:
+
+- The game is provided **“as is”**, without warranties of any kind  
+- We are not responsible for data loss, device issues, or unavailable servers  
+- We are not liable for third-party content, ads, or external links  
+- Your use of the game is at your own risk  
+
+Some regions may not allow certain limitations, so portions of this disclaimer may not apply to you.
+
+---
+
+## 11. Governing Law
+These Terms are governed by the laws of **Australia**, unless your local consumer protection laws state otherwise.
+
+---
+
+## 12. Contact Us
+If you have any questions about these Terms, please contact us at:
+
+📧 **veryserio**
+
